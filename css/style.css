@@ -1,0 +1,15 @@
+html{
+    background-color: beige;
+    color: brown;
+}
+button{
+    width: 150px;
+    height: 45px;
+}
+p{
+    margin: 0 0 0 5px;
+}
+div{
+    display:flex;
+    align-items: center;
+}
